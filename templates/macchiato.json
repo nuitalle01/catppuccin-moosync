@@ -1,16 +1,16 @@
 {
-  "id": "0a9612c0-1ff5-11ee-9b81-4d06c250e431",
-  "name": "Catppuccin Macchiato",
+  "id": "894169a0-1ff8-11ee-990a-7336bcf6c70b",
+  "name": "Pastel Pink Theme",
   "author": "N3ttX",
   "theme": {
-    "accent": "rgba(244, 219, 214, 1)",
-    "primary": "rgba(24, 25, 38, 1)",
-    "secondary": "rgba(30, 32, 48, 1)",
-    "tertiary": "rgba(36, 39, 58, 1)",
-    "textPrimary": "rgba(202, 211, 245, 1)",
-    "textSecondary": "rgba(184, 192, 224, 1)",
-    "textInverse": "rgba(24, 25, 38, 1)",
-    "divider": "rgba(110, 115, 141, 1)",
+    "accent": "#FFB6C1",  // Pastel Pink (light pink)
+    "primary": "#FFD1DC", // Very soft pink
+    "secondary": "#FFE4EC", // Light pastel pink
+    "tertiary": "#FFF0F5", // Even lighter pink
+    "textPrimary": "#FFC0CB", // Classic pastel pink for text
+    "textSecondary": "#FFB6C1", // Lighter pastel pink for secondary text
+    "textInverse": "#FF69B4", // Hot pink for contrast
+    "divider": "#FFB6C1", // Light pastel pink for dividers
     "customCSS": ""
   }
 }
